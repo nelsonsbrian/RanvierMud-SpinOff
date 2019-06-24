@@ -7,6 +7,7 @@ This reproduction is being implemented by 4 other programmers and since Exile is
 What **is** included in this repository is the features that I am converting or adding to the reproduction. Each feature that I include, I'll have my goals, obstacles, and process mapped out. I'll also include some snippets.
 
 ## Implemented Features
+* [Clans](Clans.md)
 
 ## Resources & Links:
 [Exile - Mud being reproduced](http://www.exilemud.com/index.php)
