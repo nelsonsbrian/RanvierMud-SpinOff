@@ -10,7 +10,7 @@ Clans are a social grouping structure that allows players to be a member of a 'c
 * Add clan-based effects (buffs/debuffs)
 
 ## Major Properties
-* ClanRanks
+* [ClanRanks](ClanRank.md)
 * GlobalQuestTracker
 * Locker (persistant storage)
 * GlobalEffectList (buff/debuff)

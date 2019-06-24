@@ -8,6 +8,7 @@ What **is** included in this repository is the features that I am converting or 
 
 ## Implemented Features
 * [Clans](Clans.md)
+  * [ClanRanks](ClanRank.md)
 
 ## Resources & Links:
 [Exile - Mud being reproduced](http://www.exilemud.com/index.php)
