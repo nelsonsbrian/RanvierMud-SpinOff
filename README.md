@@ -6,6 +6,10 @@ This reproduction is being implemented by 4 other programmers and since Exile is
 
 What **is** included in this repository is the features that I am converting or adding to the reproduction. Each feature that I include, I'll have my goals, obstacles, and process mapped out. I'll also include some snippets.
 
+## Repository
+The repo is on GitLab: https://gitlab.com/nelsonsbrian
+Go to that link to see activity.
+
 ## Implemented Features
 * [Clans](Clans.md)
   * [ClanRanks](ClanRank.md)
